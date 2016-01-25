@@ -1,0 +1,28 @@
+name: fingerblanc
+favicon: null
+layout_spectrum: 0.7715303373988718
+typography_spectrum: 0.32382271345704794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4149249044712633
+  lightness: 0.8684983782004565
+  saturation: 0.9328994741663337
+  rhythmicContrast: 0.9748498040717095
+purpose: []
