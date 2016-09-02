@@ -1,20 +1,4 @@
-name: fingerblanc
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.29383
-title: fingerblanc
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8684983782004565
   saturation: 0.6875
   rhythmicContrast: 0.9748498040717095
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: fingerblanc
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: fingerblanc
+description: Marketing & Branding House
 purpose: []
